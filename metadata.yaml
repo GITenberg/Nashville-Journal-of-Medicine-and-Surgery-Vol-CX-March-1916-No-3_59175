@@ -1,0 +1,30 @@
+_repo: Nashville-Journal-of-Medicine-and-Surgery-Vol-CX-March-1916-No-3_59175
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editors:
+  - agent_name: Briggs, W. T.
+    gutenberg_agent_id: '50327'
+    url: http://www.gutenberg.org/2009/agents/50327
+  - agent_name: Briggs, Charles S.
+    gutenberg_agent_id: '50326'
+    url: http://www.gutenberg.org/2009/agents/50326
+description: ''
+gutenberg_issued: '2019-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59175'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Nashville Journal of Medicine and Surgery
+
+  Vol. CX. March, 1916. No. 3'
+url: http://www.gutenberg.org/ebooks/59175
