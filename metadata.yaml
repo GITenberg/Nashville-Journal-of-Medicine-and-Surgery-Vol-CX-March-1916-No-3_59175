@@ -1,5 +1,8 @@
 _repo: Nashville-Journal-of-Medicine-and-Surgery-Vol-CX-March-1916-No-3_59175
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59175-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '50326'
     url: http://www.gutenberg.org/2009/agents/50326
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59175#Nashville-Journal-of-Medicine-and-Surgery-Vol-CX-March-1916-No-3
 gutenberg_issued: '2019-03-31'
 gutenberg_type: Text
 identifiers:
